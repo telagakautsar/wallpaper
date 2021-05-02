@@ -1,9 +1,9 @@
 {
   "username": "kusnadiisok",
   "album": [
-    "Favorite", "Liquid", "Abstrac", "Flower", "Beach", "Animal", "Nature", "Motivation"
+    "Favorite", "Liquid", "Nature", "Animal", "Beach", "Flower","Abstrac", "Car", "Motor", "Black", "Motivation"
   ],
-  "init_jumlah_photo": 400,
+  "init_jumlah_photo": 450,
   "pub_id": "",
   "app_id": "",
   "admob_banner_id": "",
