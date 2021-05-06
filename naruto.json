@@ -1,7 +1,7 @@
 {
   "username": "kusnadiisok",
   "album": [
-    "Konoha"
+    "Konoha", "Itachi Uchiha", "Naruto", "Kakashi", "Sasuke"
   ],
   "init_jumlah_photo": 150,
   "pub_id": "pub-2645249444311791",
@@ -25,8 +25,8 @@
   "interstitial_inverval": 3,
 
   "list_ads": [
-    "ADMOB",
+    "STARTAPP",
     "FAN",
-    "STARTAPP"
+    "ADMOB"
   ]
 }
