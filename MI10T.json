@@ -1,9 +1,9 @@
 {
   "username": "kusnadiisok",
   "album": [
-    "Zenfone", "Favorite", "Liquid"
+    "Favorite", "Liquid", "Nature", "Animal", "Beach", "Flower","Abstrac", "Car", "Motor", "Black", "Motivation","Zenfone"
   ],
-  "init_jumlah_photo": 150,
+  "init_jumlah_photo": 600,
   "pub_id": "pub-2645249444311791",
   "app_id": "ca-app-pub-2645249444311791~4831851906",
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
@@ -20,7 +20,7 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "startapp_app_id": "203761825",
+  "startapp_app_id": "204787718",
 
   "interstitial_inverval": 3,
 
