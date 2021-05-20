@@ -1,11 +1,11 @@
 {
   "username": "kusnadiisok",
   "album": [
-    "Demon Slayer"
+    "Pacific Rim"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "pub-2645249444311791",
-  "app_id": "ca-app-pub-2645249444311791~4831851906",
+  "pub_id": "pub-7251705005287196",
+  "app_id": "ca-app-pub-7251705005287196~1740119516",
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
   "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
@@ -22,11 +22,11 @@
 
   "startapp_app_id": "203761825",
 
-  "interstitial_inverval": 3,
+  "interstitial_inverval": 10,
 
   "list_ads": [
-    "STARTAPP",
     "ADMOB",
+    "STARTAPP",
     "FAN"
   ]
 }
