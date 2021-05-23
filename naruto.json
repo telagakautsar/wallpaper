@@ -4,11 +4,11 @@
     "Ninja Konoha", "Itachi Uchiha", "Naruto", "Kakashi", "Sasuke"
   ],
   "init_jumlah_photo": 250,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-7251705005287196",
+  "app_id": "ca-app-pub-7251705005287196~7210301565",
+  "admob_banner_id": "ca-app-pub-7251705005287196/6258034747",
+  "admob_interstitial_id": "ca-app-pub-7251705005287196/4009423154",
+  "admob_native_id": "ca-app-pub-7251705005287196/3608106081",
 
   "admob_hpk_1": "car",
   "admob_hpk_2": "fashion",
@@ -22,11 +22,11 @@
 
   "startapp_app_id": "204104676",
 
-  "interstitial_inverval": 3,
+  "interstitial_inverval": 10,
 
   "list_ads": [
-    "STARTAPP",
+    "ADMOB",
     "FAN",
-    "ADMOB"
+    "STARTAPP"
   ]
 }
