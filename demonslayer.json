@@ -4,17 +4,17 @@
     "Demon Slayer"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-7251705005287196",
+  "app_id": "ca-app-pub-7251705005287196~2895065301",
+  "admob_banner_id": "ca-app-pub-7251705005287196/5329656956",
+  "admob_interstitial_id": "ca-app-pub-7251705005287196/1390411942",
+  "admob_native_id": "ca-app-pub-7251705005287196/6451166932",
 
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
+  "admob_hpk_1": "car",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "sport",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
 
   "fan_banner_id": "",
   "fan_interstitial_id": "",
@@ -22,11 +22,11 @@
 
   "startapp_app_id": "204099365",
 
-  "interstitial_inverval": 3,
+  "interstitial_inverval": 10,
 
   "list_ads": [
-    "STARTAPP",
     "ADMOB",
+    "STARTAPP",
     "FAN"
   ]
 }
