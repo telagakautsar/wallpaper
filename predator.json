@@ -4,11 +4,11 @@
     "Predator"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "pub-7251705005287196",
-  "app_id": "ca-app-pub-7251705005287196~4370816622",
-  "admob_banner_id": "ca-app-pub-7251705005287196/1614306056",
-  "admob_interstitial_id": "ca-app-pub-7251705005287196/2544244340",
-  "admob_native_id": "ca-app-pub-7251705005287196/9525134409",
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -20,13 +20,13 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "startapp_app_id": "203761825",
+  "startapp_app_id": "202761447",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 3,
 
   "list_ads": [
-    "ADMOB",
     "STARTAPP",
+    "ADMOB",
     "FAN"
   ]
 }
