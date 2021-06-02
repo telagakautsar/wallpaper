@@ -22,11 +22,11 @@
 
   "startapp_app_id": "204099365",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 3,
 
   "list_ads": [
-    "ADMOB",
     "STARTAPP",
+    "ADMOB",
     "FAN"
   ]
 }
