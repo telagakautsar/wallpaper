@@ -28,10 +28,9 @@
 
   "interstitial_inverval": 5,
 
-  "primary_ads": "UNITY",
+  "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
-    "UNITY"
     "STARTAPP",
     "FAN"
   ]
