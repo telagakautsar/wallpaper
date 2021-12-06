@@ -6,9 +6,9 @@
   "init_jumlah_photo": 50,
   "pub_id": "",
   "app_id": "",
-  "admob_banner_id": "ca-app-pub-1799410780853043/8109877625",
-  "admob_interstitial_id": "ca-app-pub-1799410780853043/1771043448",
-  "admob_native_id": "ca-app-pub-1799410780853043/4769683829",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -22,15 +22,16 @@
 
   "startapp_app_id": "",
 
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
+  "unity_id": "4490581",
+  "unity_banner": "bener",
+  "unity_interstitial": "insertial",
 
   "interstitial_inverval": 5,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "UNITY",
   "list_ads": [
     "ADMOB",
+    "UNITY"
     "STARTAPP",
     "FAN"
   ]
