@@ -26,12 +26,13 @@
   "unity_banner": "bener",
   "unity_interstitial": "insertial",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 3,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "UNITY",
   "list_ads": [
     "ADMOB",
     "STARTAPP",
+    "UNITY",
     "FAN"
   ]
 }
